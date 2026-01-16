@@ -5,11 +5,15 @@
 ``` javascript
 const hola = "Hello World!"
 ```
-
+- [ ] learn marksdown 
+- [ ]  Mark if you wish
+- [ ]  finish to read
+- [ ] all about
 
 
 
 
 I add 2 types of header the h1 and the h3
+
 
 
